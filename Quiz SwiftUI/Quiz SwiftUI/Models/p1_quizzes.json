@@ -1,0 +1,840 @@
+[
+    {
+        "id": 35,
+        "question": "Capital of France",
+        "answer": "Paris",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Paris.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Paris.jpg"
+        },
+        "favourite": true
+    },
+    {
+        "id": 41,
+        "question": "Capital of USA",
+        "answer": "Washington",
+        "author": {
+            "id": 17,
+            "isAdmin": false,
+            "username": "g915",
+            "photo": {
+                "filename": "caras/foto015.jpeg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/caras/foto015.jpeg"
+            }
+        },
+        "attachment": {
+            "filename": "washington.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/8f4435d18ce1c2921cb2351ae349d5f32055487da09013ade2300137d08535a8"
+        },
+        "favourite": true
+    },
+    {
+        "id": 8,
+        "question": "Capital of Japan",
+        "answer": "Tokyo",
+        "author": {
+            "id": 42,
+            "isAdmin": false,
+            "username": "g940",
+            "photo": {
+                "filename": "caras/foto040.jpeg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/caras/foto040.jpeg"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Tokyo.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Tokyo.jpg"
+        },
+        "favourite": false
+    },
+    {
+        "id": 6,
+        "question": "Capital of Germany",
+        "answer": "Berlin",
+        "author": {
+            "id": 52,
+            "isAdmin": false,
+            "username": "g950",
+            "photo": {
+                "filename": "caras/foto050.jpeg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/caras/foto050.jpeg"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Berlin.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Berlin.jpg"
+        },
+        "favourite": true
+    },
+    {
+        "id": 18,
+        "question": "Capital of Cyprus",
+        "answer": "Nicosia",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Nicosia.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Nicosia.jpg"
+        },
+        "favourite": false
+    },
+    {
+        "id": 17,
+        "question": "Capital of Chile",
+        "answer": "Santiago",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Santiago.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Santiago.jpg"
+        },
+        "favourite": false
+    },
+    {
+        "id": 50,
+        "question": "¿Quién es la más bella del reino?",
+        "answer": "Blancanieves",
+        "author": {
+            "id": 42,
+            "isAdmin": false,
+            "username": "g940",
+            "photo": {
+                "filename": "caras/foto040.jpeg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/caras/foto040.jpeg"
+            }
+        },
+        "attachment": null,
+        "favourite": false
+    },
+    {
+        "id": 47,
+        "question": "Name of this entity ?",
+        "answer": "Anonymous",
+        "author": {
+            "id": 52,
+            "isAdmin": false,
+            "username": "g950",
+            "photo": {
+                "filename": "caras/foto050.jpeg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/caras/foto050.jpeg"
+            }
+        },
+        "attachment": null,
+        "favourite": true
+    },
+    {
+        "id": 9,
+        "question": "Capital of Croatia",
+        "answer": "Zagreb",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Zagreb.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Zagreb.jpg"
+        },
+        "favourite": true
+    },
+    {
+        "id": 15,
+        "question": "Capital of Slovakia",
+        "answer": "Bratislava",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Bratislava.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Bratislava.jpg"
+        },
+        "favourite": true
+    },
+    {
+        "id": 33,
+        "question": "Capital of Spain",
+        "answer": "Madrid",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Madrid.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Madrid.jpg"
+        },
+        "favourite": false
+    },
+    {
+        "id": 14,
+        "question": "Capital of Belgium",
+        "answer": "Brussels",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Brussels.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Brussels.jpg"
+        },
+        "favourite": false
+    },
+    {
+        "id": 28,
+        "question": "Capital of Norway",
+        "answer": "Oslo",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Oslo.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Oslo.jpg"
+        },
+        "favourite": true
+    },
+    {
+        "id": 21,
+        "question": "Capital of Estonia",
+        "answer": "Tallinn",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Tallinn.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Tallinn.jpg"
+        },
+        "favourite": true
+    },
+    {
+        "id": 31,
+        "question": "Capital of New Zealand",
+        "answer": "Wellington",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Wellington.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Wellington.jpg"
+        },
+        "favourite": false
+    },
+    {
+        "id": 48,
+        "question": "Who is the only coach to have won 3 Champion's League ?",
+        "answer": "Zidane",
+        "author": {
+            "id": 52,
+            "isAdmin": false,
+            "username": "g950",
+            "photo": {
+                "filename": "caras/foto050.jpeg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/caras/foto050.jpeg"
+            }
+        },
+        "attachment": null,
+        "favourite": false
+    },
+    {
+        "id": 30,
+        "question": "Capital of Ireland",
+        "answer": "Dublin",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Dublin.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Dublin.jpg"
+        },
+        "favourite": true
+    },
+    {
+        "id": 38,
+        "question": "Serie de TV",
+        "answer": "Perdidos",
+        "author": {
+            "id": 103,
+            "isAdmin": false,
+            "username": "spg",
+            "photo": {
+                "filename": "spg072.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/ef8c7ae4f48fc6c82f6c530b1dcd9c51fc2f4d6f2215b7ea78a048fae23c78ac"
+            }
+        },
+        "attachment": {
+            "filename": "dharma.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/a844b936a88c547f51857f515209eb0ff0ea7a41e65a02ba466e82934d012418"
+        },
+        "favourite": true
+    },
+    {
+        "id": 26,
+        "question": "Capital of Sweden",
+        "answer": "Stockholm",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Stockholm.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Stockholm.jpg"
+        },
+        "favourite": false
+    },
+    {
+        "id": 24,
+        "question": "Capital of Switzerland",
+        "answer": "Bern",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Bern.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Bern.jpg"
+        },
+        "favourite": false
+    },
+    {
+        "id": 10,
+        "question": "Capital of Greece",
+        "answer": "Athens",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Athens.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Athens.jpg"
+        },
+        "favourite": false
+    },
+    {
+        "id": 23,
+        "question": "Capital of Morocco",
+        "answer": "Rabat",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Rabat.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Rabat.jpg"
+        },
+        "favourite": true
+    },
+    {
+        "id": 32,
+        "question": "Capital of Poland",
+        "answer": "Warsaw",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Warsaw.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Warsaw.jpg"
+        },
+        "favourite": false
+    },
+    {
+        "id": 16,
+        "question": "Capital of Ecuador",
+        "answer": "Quito",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Quito.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Quito.jpg"
+        },
+        "favourite": false
+    },
+    {
+        "id": 37,
+        "question": "Capital of The Netherlands",
+        "answer": "Amsterdam",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Amsterdam.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Amsterdam.jpg"
+        },
+        "favourite": false
+    },
+    {
+        "id": 45,
+        "question": "Capital of Auvergne-Rhône-Alpes",
+        "answer": "Lyon",
+        "author": {
+            "id": 40,
+            "isAdmin": false,
+            "username": "g938",
+            "photo": {
+                "filename": "caras/foto038.jpeg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/caras/foto038.jpeg"
+            }
+        },
+        "attachment": null,
+        "favourite": true
+    },
+    {
+        "id": 51,
+        "question": "Quien es este",
+        "answer": "no lo se",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "Captura de pantalla 2020-01-23 a las 14.53.17.png",
+            "mime": "image/png",
+            "url": "https://quiz.dit.upm.es/uploads/96364f579c5c6b736b2669b525e08a3f7f311f9b1032169e5043400f36c4c019"
+        },
+        "favourite": false
+    },
+    {
+        "id": 25,
+        "question": "Capital of Egypt",
+        "answer": "Cairo",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Cairo.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Cairo.jpg"
+        },
+        "favourite": false
+    },
+    {
+        "id": 42,
+        "question": "What flexbox property indicates how to align items in the secondary axis?",
+        "answer": "align-items",
+        "author": {
+            "id": 104,
+            "isAdmin": false,
+            "username": "sonsoles",
+            "photo": {
+                "filename": "Captura de pantalla 2019-09-20 a las 11.46.06.png",
+                "mime": "image/png",
+                "url": "https://quiz.dit.upm.es/uploads/e4df469d881176e6ea034209fa5a535583233ce5e0b85f698d60451ffe0370bf"
+            }
+        },
+        "attachment": {
+            "filename": "align1.png",
+            "mime": "image/png",
+            "url": "https://quiz.dit.upm.es/uploads/b29b8664482a14a03acd75a133503c98853a06b69c4e79a213ca03db5b00a72a"
+        },
+        "favourite": true
+    },
+    {
+        "id": 20,
+        "question": "Capital of Czech Republic",
+        "answer": "Prague",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Prague.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Prague.jpg"
+        },
+        "favourite": false
+    },
+    {
+        "id": 46,
+        "question": "Which player won the 2018 men's ballon d'or ?",
+        "answer": "Modric",
+        "author": {
+            "id": 52,
+            "isAdmin": false,
+            "username": "g950",
+            "photo": {
+                "filename": "caras/foto050.jpeg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/caras/foto050.jpeg"
+            }
+        },
+        "attachment": null,
+        "favourite": false
+    },
+
+    {
+        "id": 13,
+        "question": "Capital of Madagascar",
+        "answer": "Antananarivo",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Antananarivo.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Antananarivo.jpg"
+        },
+        "favourite": true
+    },
+    {
+        "id": 36,
+        "question": "Capital of Italy",
+        "answer": "Rome",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Rome.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Rome.jpg"
+        },
+        "favourite": false
+    },
+    {
+        "id": 52,
+        "question": "Capital of El Bierzo",
+        "answer": "Ponferrada",
+        "author": {
+            "id": 16,
+            "isAdmin": false,
+            "username": "g914",
+            "photo": {
+                "filename": "caras/foto014.jpeg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/caras/foto014.jpeg"
+            }
+        },
+        "attachment": {
+            "filename": "ponferrada-655x368.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/a6ef2ba3d4014baaa57e8d7bf89d26e57a268fc00bd69271562e654cb8494549"
+        },
+        "favourite": false
+    },
+    {
+        "id": 29,
+        "question": "Capital of Finland",
+        "answer": "Helsinki",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Helsinki.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Helsinki.jpg"
+        },
+        "favourite": true
+    },
+    {
+        "id": 11,
+        "question": "Capital of Canada",
+        "answer": "Ottawa",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Ottawa.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Ottawa.jpg"
+        },
+        "favourite": false
+    },
+    {
+        "id": 22,
+        "question": "Capital of Latvia",
+        "answer": "Riga",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Riga.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Riga.jpg"
+        },
+        "favourite": true
+    },
+    {
+        "id": 12,
+        "question": "Capital of Honduras",
+        "answer": "Tegucigalpa",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Tegucigalpa.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Tegucigalpa.jpg"
+        },
+        "favourite": false
+    },
+    {
+        "id": 7,
+        "question": "Capital of Australia",
+        "answer": "Canberra",
+        "author": {
+            "id": 1,
+            "isAdmin": true,
+            "username": "admin",
+            "photo": {
+                "filename": "lechuck.jpg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+            }
+        },
+        "attachment": {
+            "filename": "capitals/Canberra.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/capitals/Canberra.jpg"
+        },
+        "favourite": false
+    },
+    {
+        "id": 43,
+        "question": "How many mosquitoes die every year?",
+        "answer": "33500000000000",
+        "author": {
+            "id": 10,
+            "isAdmin": false,
+            "username": "g908",
+            "photo": {
+                "filename": "caras/foto008.jpeg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/caras/foto008.jpeg"
+            }
+        },
+        "attachment": {
+            "filename": "mosquito-facts-for-kids.jpg",
+            "mime": "image/jpeg",
+            "url": "https://quiz.dit.upm.es/uploads/ce030563dde045db8aee64123270ed686336595bc9f4849b6e04e7308ba74f03"
+        },
+        "favourite": true
+    },
+    {
+        "id": 39,
+        "question": "1+1 ?",
+        "answer": "2",
+        "author": {
+            "id": 40,
+            "isAdmin": false,
+            "username": "g938",
+            "photo": {
+                "filename": "caras/foto038.jpeg",
+                "mime": "image/jpeg",
+                "url": "https://quiz.dit.upm.es/uploads/caras/foto038.jpeg"
+            }
+        },
+        "attachment": null,
+        "favourite": false
+    }
+]
